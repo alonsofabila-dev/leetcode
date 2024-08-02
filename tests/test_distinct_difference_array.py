@@ -1,4 +1,4 @@
-import python.problem_1 as problems
+import python.distinct_difference_array as problems
 
 
 def test_different_numbers():

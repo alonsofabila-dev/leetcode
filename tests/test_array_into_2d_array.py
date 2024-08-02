@@ -1,4 +1,4 @@
-import python.problem_2 as problem
+import python.array_into_2d_array as problem
 
 
 def test_same_nums():

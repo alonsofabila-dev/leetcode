@@ -1,4 +1,4 @@
-import python.problem_3 as problem
+import python.permutations as problem
 
 
 def test_three_element_permutation():
